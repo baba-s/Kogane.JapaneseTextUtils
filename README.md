@@ -1,1 +1,1 @@
-# Kogane.JapaneseTextUtils
+# Kogane Japanese Text Utils
