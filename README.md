@@ -2,6 +2,8 @@
 
 日本語のテキストに関する汎用的な機能を管理するクラス
 
+## 使用例
+
 ```csharp
 using Kogane;
 using UnityEngine;
